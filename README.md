@@ -3,9 +3,13 @@
 <!--
 **alanhg/alanhg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## 技能清单 
-- Web开发： JavaScript/Node/Java
-- 前端框架： Angular/React/Ionic
-- 前端工具： Cordova/Webpack
-- 数据库相关：MySQL/MongoDB
-- 版本管理、文档和自动化部署工具：Git/Jenkins
+Here are some ideas to get you started:
+- 🔭 I’m currently working on Lenovo
+- 🌱 I’m currently learning CSS
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: alan@1991421.cn
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
