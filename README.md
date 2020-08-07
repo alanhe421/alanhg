@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=alanhg"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=alanhg?hide_title=true"/>
 
 自律使我自由
 
