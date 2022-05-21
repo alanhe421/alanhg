@@ -13,7 +13,7 @@
 :writing_hand: 当一个程序员对算法、语言标准、底层、原生、英文文档这些词汇产生恐惧感的时候，他的技术生命已经走到尽头。
 
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
