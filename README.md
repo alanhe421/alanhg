@@ -1,19 +1,9 @@
-### Hi there 👋
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=alanhg&hide_title=true"/>
-
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falanhg)](https://hits.seeyoufarm.com)
-
-[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://alanhg.medium.com/)
-
-
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Alan He
 
 [![](https://img.shields.io/badge/-@alanhe421-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/alanhe421)
 [![](https://img.shields.io/badge/-@alanhg-%23181717?style=flat-square&logo=github)](https://github.com/alanhg)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=1991421.cn&url=https%3A%2F%2Fxlbd.me)](https://1991421.cn)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falanhg)](https://hits.seeyoufarm.com)
 
 ❤️ 创造/开发/英语/生活
 
